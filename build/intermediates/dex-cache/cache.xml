@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nns/nns/BallGamev1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/nns/nns/BallGamev1/app/build/intermediates/pre-dexed/debug/classes-75b2e056c05ff77a113d4bd3efe51113ff1950c9.jar" />
+    </item>
+    <item
+        jar="/home/nns/nns/BallGamev1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/nns/nns/BallGamev1/app/build/intermediates/pre-dexed/debug/classes-2a84fa50ce74647d87e0cdc14f8d7e45db947ac4.jar" />
+    </item>
+    <item
+        jar="/home/nns/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/nns/nns/BallGamev1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4dd3effd1d2024f322c1e043753ecf421c90c4cb.jar" />
+    </item>
+    <item
+        jar="/home/nns/nns/BallGamev1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/nns/nns/BallGamev1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e9b0fdcd7c08a0520ba6b747475f0d9237e19632.jar" />
+    </item>
+
+</items>
